@@ -1,0 +1,212 @@
+    1  wget www.github.com
+    2  history > cmds.log
+    3  wget www.github.com
+    4  history > cmds.log
+    5  git clone https://github.com/hamzakhan/cs131.git
+    6  git push https://github.com/hamzakhan/cs131.git
+    7  https://github.com/ham
+    8  git clone https://github.com/hamzakhan/cs131.git
+    9  history > cmds.log
+   10  wget https://github.com
+   11  history > cmds.log
+   12  git init
+   13  git add cmds.log
+   14  git commit -m "Added cmds.log file"
+   15  git remote add origin https://github.com/yourusername/cs131.git
+   16  git remote add origin https://github.com/HKcode22/cs131.git
+   17  git push -u origin master
+   18  https://github.com/HKcode22/cs131.git
+   19  git push -u origin master
+   20  git clone https://github.com/yourusername/cs131.git
+   21  git clone https://github.com/HKcode22/cs131.git
+   22  git clone https://github.com/yourusername/cs131.git
+   23  git clone https://github.com/yourusernamee/cs131.git
+   24  git clone https://github.com//cs131.git
+   25  git clone https://github.com/hamzakhan/cs131.git
+   26  git clone https://github.com/yourusername/cs131.git
+   27  git clone https://github.com/yourusername/cs121.git
+   28  https://github.com/HKcode22/cs131.git/
+   29  git clone https://github.com/HKcode22/cs131.git
+   30  git clone https://github.com/yourusername/cs131.git
+   31  git clone https://github.com/HKcode22/cs131.git
+   32  rm -rf cs131
+   33  git clone https://github.com/HKcode22/cs131.git
+   34  rm -rf cs131
+   35  git clone https://github.com/HKcode22/cs131.git
+   36  git add .
+   37  git commit -m "Initial commit"
+   38  git push origin master
+   39  git remote -v
+   40  git remote set-url origin https://github.com/HKcode22/cs131.git
+   41  git push origin master
+   42  git remote -v
+   43  git remote set-url origin https://github.com/HKcode22/cs131.git
+   44  git clone https://github.com/HKcode22/cs131.git
+   45  cd cs131
+   46  git clone https://github.com/HKcode22/cs131.git
+   47  wget www.github.com
+   48  history > cmds.log
+   49  cd /path/to/directory
+   50  cd cmds.log
+   51  cd /path/to/cs131
+   52  cd cs131  # If you haven't already navigated to the 'cs131' directory
+   53  git add cmds.log
+   54  git commit -m "Add cmds.log file"
+   55  git push origin master
+   56  cd cs131git add cmds.log
+   57  git commit -m "Add cmds.log file"
+   58  git push origin master
+   59  cd cs131  # If you haven't already navigated to the 'cs131' directory
+   60  git add cmds.log
+   61  git commit -m "Add cmds.log file"
+   62  git push origin master
+   63  cd cs131
+   64  git add cmds.log 
+   65  git commit -m "Add cmds.log file" 
+   66  git push origin master
+   67  mkdir Worksheet1
+   68  history > cmds.log
+   69  cd Worksheet1
+   70  git init
+   71  git add cmds.log
+   72  git commit -m "Add cmds.log"
+   73  git remote add origin https://github.com/HKcode22/cs131.git
+   74  git push -u origin master
+   75  git clone https://github.com/HKcode22/cs131.git
+   76  history > cmds.log
+   77  git add cmds.log
+   78  git commit -m "Add cmds.log file"
+   79  git push origin main
+   80  git commit -m "Add cmds.log file"
+   81  git push origin main
+   82  git clone https://github.com/HKcode22/cs131.git
+   83  wget www.github.com
+   84  wget www.github.com
+   85  history > cmds.log
+   86  git init
+   87  git add cmds.log
+   88  git commit -m "Add cmds.log"
+   89  git remote add origin https://github.com/HKcode22/cs131.git
+   90  git push -u origin master
+   91  echo "# cs131" >> README.md
+   92  git init
+   93  git add README.md
+   94  git commit -m "first commit"
+   95  git branch -M main
+   96  git remote add origin https://github.com/HKcode22/cs131.git
+   97  git push -u origin main
+   98  echo "# cs131" >> README.md
+   99  git init
+  100  git add README.md
+  101  git commit -m "first commit"
+  102  git branch -M main
+  103  git remote add origin https://github.com/HKcode22/cs131.git
+  104  git push -u origin main
+  105  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
+  106  git push -u origin main
+  107  git clone https://github.com/HKcode22/cs131.git
+  108  wget www.github.com
+  109  history > cmds.log
+  110  git init
+  111  git add cmds.log
+  112  git commit -m "Add cmds.log"
+  113  git remote add origin https://github.com/git push -u origin master/cs131.git
+  114  git push -u origin master
+  115  git clone https://github.com/HKcode22/cs131.git
+  116  history > cmds.log
+  117  wget https://github.com
+  118  history > cmds.log
+  119  git init
+  120  git add cmds.log
+  121  git commit -m "Added cmds.log file"
+  122  git config --global user.email "hk84164@gmail.com"
+  123  git config --global user.name "Hamza Khan"
+  124  https://github.com/HKcode22/cs131.git
+  125  git remote add origin https://github.com/HKcode22/cs131.git
+  126  https://github.com/HKcode22/cs131.git
+  127  git clone https://github.com/HKcode22/cs131.git
+  128  ls
+  129  mkdir SampleRepoForCS131
+  130  touch a.txt
+  131  git add .
+  132  mkdir SampleRepoForCS131
+  133  touch a.txt
+  134  git add
+  135  git add .
+  136  ls -ltr
+  137  cd SampleRepoForCS131/
+  138  git init
+  139  touch sampleText.txt
+  140  ls
+  141  pwd
+  142  git add .
+  143  git status
+  144  cd ~/.ssh && ssh-keygen
+  145  cd ~/ .ssh && ssh-keygen
+  146  cd ~/.ssh && ssh-keygen
+  147  mkdir ~/.ssh
+  148  cd ~/.ssh && ssh-keygen
+  149  cat id_rsa.pub
+  150  cat ~/.ssh/id_rsa.pub
+  151  cat id_rsa.pub
+  152  mkdir ~/.ssh
+  153  cd ~/.ssh && ssh-keygen
+  154  cat id_rsa.pub
+  155  cd ..
+  156  ls
+  157  cd SampleRepoForCS131/
+  158  git status
+  159  git commit -m "SSH tutorial"
+  160  git config --global user.email "hk84164@gmail.com"
+  161  git config --global user.name "HKcode22"
+  162  git status
+  163  git commit -m "SSH tutorial"
+  164  git remote add origin
+  165  git remote add origin git@github.com:hk84164@gmail.com
+  166  git push 
+  167  git --set-upstream origin master
+  168  git remote -v
+  169  git remote add origin git@github.com:khanchandaniashish/DemoRepoForCS131.git
+  170  git commit -m "Message"
+  171  git push --set-upstream origin master
+  172  git remote -v
+  173  git remote add origin git@github.com:khanchandaniashish/DemoRepoForCS131.git
+  174  git commit -m "Message"
+  175  git push --set-upstream origin master
+  176  ls -al~/.ssh
+  177  ls ~al~/.ssh
+  178  ]
+  179  ls -al~/.ssh
+  180  ls -al ~/.ssh
+  181  git push --set-upstream origin master
+  182  cat ~/.ssh/id_rsa.pub
+  183  git push --set-upstream origin master
+  184  git remote add origin git@github.com:khanchandaniashish/DemoRepoForCS131.git
+  185  git commit -m "Message"
+  186  git push --set-upstream origin master
+  187  git remote -v
+  188  git remote add origin git@github.com:khanchandaniashish/DemoRepoForCS131.git
+  189  git commit -m "Message"
+  190  git remote add origin git@github.com:khanchandaniashish/DemoRepoForCS131.git
+  191  git push --set-upstream origin master
+  192  ls -al
+  193  cd ./.git && ls -al
+  194  cat config
+  195  git remote set-url origin https://github.com/HKcode22/cs131.git
+  196  git commit -m "Message"
+  197  git push --set-upstream origin master
+  198  cd ..
+  199  mkdir Worksheet1 && cd Worksheet1
+  200  history > cmds.log
+  201  cd ..
+  202  ls -asl
+  203  rm -rf sampleText.txt
+  204  git add .
+  205  git add commit -m "added cmds.log"
+  206  git push origin master
+  207  git commit -m "added cmds.log"
+  208  git push origin master
+  209  ​​ssh hamzaf23@172.20.25.9
+  210  mkdir Worksheet1
+  211  cd Worksheet1
+  212  history > cmds.log
