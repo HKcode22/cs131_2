@@ -1,0 +1,843 @@
+    1  wget www.github.com
+    2  history > cmds.log
+    3  wget www.github.com
+    4  history > cmds.log
+    5  git clone https://github.com/hamzakhan/cs131.git
+    6  git push https://github.com/hamzakhan/cs131.git
+    7  https://github.com/ham
+    8  git clone https://github.com/hamzakhan/cs131.git
+    9  history > cmds.log
+   10  wget https://github.com
+   11  history > cmds.log
+   12  git init
+   13  git add cmds.log
+   14  git commit -m "Added cmds.log file"
+   15  git remote add origin https://github.com/yourusername/cs131.git
+   16  git remote add origin https://github.com/HKcode22/cs131.git
+   17  git push -u origin master
+   18  https://github.com/HKcode22/cs131.git
+   19  git push -u origin master
+   20  git clone https://github.com/yourusername/cs131.git
+   21  git clone https://github.com/HKcode22/cs131.git
+   22  git clone https://github.com/yourusername/cs131.git
+   23  git clone https://github.com/yourusernamee/cs131.git
+   24  git clone https://github.com//cs131.git
+   25  git clone https://github.com/hamzakhan/cs131.git
+   26  git clone https://github.com/yourusername/cs131.git
+   27  git clone https://github.com/yourusername/cs121.git
+   28  https://github.com/HKcode22/cs131.git/
+   29  git clone https://github.com/HKcode22/cs131.git
+   30  git clone https://github.com/yourusername/cs131.git
+   31  git clone https://github.com/HKcode22/cs131.git
+   32  rm -rf cs131
+   33  git clone https://github.com/HKcode22/cs131.git
+   34  rm -rf cs131
+   35  git clone https://github.com/HKcode22/cs131.git
+   36  git add .
+   37  git commit -m "Initial commit"
+   38  git push origin master
+   39  git remote -v
+   40  git remote set-url origin https://github.com/HKcode22/cs131.git
+   41  git push origin master
+   42  git remote -v
+   43  git remote set-url origin https://github.com/HKcode22/cs131.git
+   44  git clone https://github.com/HKcode22/cs131.git
+   45  cd cs131
+   46  git clone https://github.com/HKcode22/cs131.git
+   47  wget www.github.com
+   48  history > cmds.log
+   49  cd /path/to/directory
+   50  cd cmds.log
+   51  cd /path/to/cs131
+   52  cd cs131  # If you haven't already navigated to the 'cs131' directory
+   53  git add cmds.log
+   54  git commit -m "Add cmds.log file"
+   55  git push origin master
+   56  cd cs131git add cmds.log
+   57  git commit -m "Add cmds.log file"
+   58  git push origin master
+   59  cd cs131  # If you haven't already navigated to the 'cs131' directory
+   60  git add cmds.log
+   61  git commit -m "Add cmds.log file"
+   62  git push origin master
+   63  cd cs131
+   64  git add cmds.log 
+   65  git commit -m "Add cmds.log file" 
+   66  git push origin master
+   67  mkdir Worksheet1
+   68  history > cmds.log
+   69  cd Worksheet1
+   70  git init
+   71  git add cmds.log
+   72  git commit -m "Add cmds.log"
+   73  git remote add origin https://github.com/HKcode22/cs131.git
+   74  git push -u origin master
+   75  git clone https://github.com/HKcode22/cs131.git
+   76  history > cmds.log
+   77  git add cmds.log
+   78  git commit -m "Add cmds.log file"
+   79  git push origin main
+   80  git commit -m "Add cmds.log file"
+   81  git push origin main
+   82  git clone https://github.com/HKcode22/cs131.git
+   83  wget www.github.com
+   84  wget www.github.com
+   85  history > cmds.log
+   86  git init
+   87  git add cmds.log
+   88  git commit -m "Add cmds.log"
+   89  git remote add origin https://github.com/HKcode22/cs131.git
+   90  git push -u origin master
+   91  echo "# cs131" >> README.md
+   92  git init
+   93  git add README.md
+   94  git commit -m "first commit"
+   95  git branch -M main
+   96  git remote add origin https://github.com/HKcode22/cs131.git
+   97  git push -u origin main
+   98  echo "# cs131" >> README.md
+   99  git init
+  100  git add README.md
+  101  git commit -m "first commit"
+  102  git branch -M main
+  103  git remote add origin https://github.com/HKcode22/cs131.git
+  104  git push -u origin main
+  105  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
+  106  git push -u origin main
+  107  git clone https://github.com/HKcode22/cs131.git
+  108  wget www.github.com
+  109  history > cmds.log
+  110  git init
+  111  git add cmds.log
+  112  git commit -m "Add cmds.log"
+  113  git remote add origin https://github.com/git push -u origin master/cs131.git
+  114  git push -u origin master
+  115  git clone https://github.com/HKcode22/cs131.git
+  116  history > cmds.log
+  117  wget https://github.com
+  118  history > cmds.log
+  119  git init
+  120  git add cmds.log
+  121  git commit -m "Added cmds.log file"
+  122  git config --global user.email "hk84164@gmail.com"
+  123  git config --global user.name "Hamza Khan"
+  124  https://github.com/HKcode22/cs131.git
+  125  git remote add origin https://github.com/HKcode22/cs131.git
+  126  https://github.com/HKcode22/cs131.git
+  127  git clone https://github.com/HKcode22/cs131.git
+  128  ls
+  129  mkdir SampleRepoForCS131
+  130  touch a.txt
+  131  git add .
+  132  mkdir SampleRepoForCS131
+  133  touch a.txt
+  134  git add
+  135  git add .
+  136  ls -ltr
+  137  cd SampleRepoForCS131/
+  138  git init
+  139  touch sampleText.txt
+  140  ls
+  141  pwd
+  142  git add .
+  143  git status
+  144  cd ~/.ssh && ssh-keygen
+  145  cd ~/ .ssh && ssh-keygen
+  146  cd ~/.ssh && ssh-keygen
+  147  mkdir ~/.ssh
+  148  cd ~/.ssh && ssh-keygen
+  149  cat id_rsa.pub
+  150  cat ~/.ssh/id_rsa.pub
+  151  cat id_rsa.pub
+  152  mkdir ~/.ssh
+  153  cd ~/.ssh && ssh-keygen
+  154  cat id_rsa.pub
+  155  cd ..
+  156  ls
+  157  cd SampleRepoForCS131/
+  158  git status
+  159  git commit -m "SSH tutorial"
+  160  git config --global user.email "hk84164@gmail.com"
+  161  git config --global user.name "HKcode22"
+  162  git status
+  163  git commit -m "SSH tutorial"
+  164  git remote add origin
+  165  git remote add origin git@github.com:hk84164@gmail.com
+  166  git push 
+  167  git --set-upstream origin master
+  168  git remote -v
+  169  git remote add origin git@github.com:khanchandaniashish/DemoRepoForCS131.git
+  170  git commit -m "Message"
+  171  git push --set-upstream origin master
+  172  git remote -v
+  173  git remote add origin git@github.com:khanchandaniashish/DemoRepoForCS131.git
+  174  git commit -m "Message"
+  175  git push --set-upstream origin master
+  176  ls -al~/.ssh
+  177  ls ~al~/.ssh
+  178  ]
+  179  ls -al~/.ssh
+  180  ls -al ~/.ssh
+  181  git push --set-upstream origin master
+  182  cat ~/.ssh/id_rsa.pub
+  183  git push --set-upstream origin master
+  184  git remote add origin git@github.com:khanchandaniashish/DemoRepoForCS131.git
+  185  git commit -m "Message"
+  186  git push --set-upstream origin master
+  187  git remote -v
+  188  git remote add origin git@github.com:khanchandaniashish/DemoRepoForCS131.git
+  189  git commit -m "Message"
+  190  git remote add origin git@github.com:khanchandaniashish/DemoRepoForCS131.git
+  191  git push --set-upstream origin master
+  192  ls -al
+  193  cd ./.git && ls -al
+  194  cat config
+  195  git remote set-url origin https://github.com/HKcode22/cs131.git
+  196  git commit -m "Message"
+  197  git push --set-upstream origin master
+  198  cd ..
+  199  mkdir Worksheet1 && cd Worksheet1
+  200  history > cmds.log
+  201  cd ..
+  202  ls -asl
+  203  rm -rf sampleText.txt
+  204  git add .
+  205  git add commit -m "added cmds.log"
+  206  git push origin master
+  207  git commit -m "added cmds.log"
+  208  git push origin master
+  209  ​​ssh hamzaf23@172.20.25.9
+  210  mkdir Worksheet1
+  211  cd Worksheet1
+  212  history > cmds.log
+  213  git init
+  214  git add cmds.log
+  215  git commit -m "Added cmds.log"
+  216  git remote add origin https://github.com/HKcode22/cs131.git
+  217  git push -u origin master
+  218  git pull origin master
+  219  git push origin master
+  220  git pull origin master --allow-unrelated-histories
+  221  ls pwd
+  222  ls
+  223  pwd
+  224  cd cs131
+  225  ls
+  226  cd cs131
+  227  ls
+  228  git status
+  229  cd Worksheet1
+  230  ls
+  231  cd ..
+  232  ls
+  233  git add Worksheet1
+  234  ls
+  235  git add Worksheet1
+  236  ls
+  237  git commit -m "added Worksheet1"
+  238  git push origin master
+  239  git push
+  240  git push origin master
+  241  git commit -m "added Worksheet1"
+  242  git commit -m "Worksheet1"
+  243  git commit -m"Hi"
+  244  history > cmds.log
+  245  git add Worksheet1
+  246  git commit -m "Worksheet1"
+  247  git push origin cs131
+  248  clear
+  249  git push add Worksheet1
+  250  git add .
+  251  git commit -m "Worksheet1"
+  252  git push origin cs131
+  253  git push origin Worksheet1
+  254  git push add origin master
+  255  git push origin master
+  256  git push origin main
+  257  git add Worksheet1
+  258  git commit -m "Worksheet1"
+  259  git add .
+  260  git commit -m "Worksheet1"
+  261  git clone <https://github.com/HKcode22/cs131.git
+  262  git clone <https://github.com/username/repository.git
+  263  git clone <https://github.com/username/repository.git>
+  264  touch Worksheet1
+  265  git add Worksheet1
+  266  git commit -m "Worksheet1"
+  267  ls -l Worksheet1
+  268  git add -f Worksheet1
+  269  git commit -m "Add Worksheet1"
+  270  git submodule init
+  271  git submodule update
+  272  ls -l Worksheet1
+  273  git add -f Worksheet1
+  274  git commit -m "Add Worksheet1"
+  275  rm Worksheet1
+  276  mkdir Worksheet1
+  277  mv file1 file2 file3 Worksheet1/
+  278  git add Worksheet1
+  279  git commit -m "Add Worksheet1 directory"
+  280  git push origin main
+  281  git pull
+  282  git push origin main
+  283  git pull origin main
+  284  cd cs131
+  285  git add Worksheet1
+  286  ls
+  287  cd Worksheet1
+  288  mkdir Worksheet1
+  289  cd Worksheet1
+  290  cd cs131
+  291  cd ..
+  292  git add .
+  293  cd path/to/cs131
+  294  cd..
+  295  cd ..
+  296  git add .
+  297  cd path/to/cs131
+  298  cd ~/cs131
+  299  ls
+  300  git rm --cached cs131
+  301  git add .
+  302  git commit -m "Remove nested Git repository"
+  303  git push origin master
+  304  git branch
+  305  git add .
+  306  git commit -m "Your commit message here"
+  307  cd cs131
+  308  git status
+  309  cd Worksheet1
+  310  git status
+  311  git add cs131/
+  312  git add index.html
+  313  git pull
+  314  git branch --set-upstream-to=origin/<branch> master
+  315  git main --set-upstream-to=origin/<main> master
+  316  git add .
+  317  cd cs131/
+  318  git status
+  319  git add .
+  320  git commit -m "Committing changes in submodule cs131/"
+  321  cd ..
+  322  git add .
+  323  git commit -m "Committing changes in Worksheet1/"
+  324  git push origin main
+  325  git checkout -b main
+  326  git add .
+  327  git commit -m "Committing changes in Worksheet1/"
+  328  git push origin main
+  329  cd cs131
+  330  git init
+  331  touch Worksheet1
+  332  ls
+  333  git status
+  334  git commit -m "Your message about the commit"
+  335  git commit -a "Your message about the commit"
+  336  cd ..
+  337  git commit -m "Your message about the commit"
+  338  cd Worksheet1
+  339  git commit -m "Your message about the commit"
+  340  touch Worksheet1
+  341  git init
+  342  ls
+  343  git status
+  344  git remote add origin https://github.com/HKcode22/cs131.git
+  345  git push -u origin master
+  346  git add .
+  347  git commit -m 
+  348  git commit -m "Worksheet1
+  349  j
+  350  git commit
+  351  jjj
+  352  exit
+  353  git commit -m "Worksheet1"
+  354  git push origin cs131
+  355  git push origin main
+  356  git pull
+  357  git push origin master
+  358  push origin main
+  359  git push origin main
+  360  cd Worksheet1
+  361  mkdir Worksheet1
+  362  cd Worksheet1
+  363  git init
+  364  git add .
+  365  git commit -m "Add Worksheet1 directory and files"
+  366  git remote add <https://github.com/HKcode22/cs131>
+  367  git remote add <https://github.com/HKcode22/cs131.com>
+  368  git remote add origin https://github.com/HKcode22/cs131.com
+  369  git branch -M main
+  370  git push -u origin main
+  371  git remote add https://github.com/HKcode22/cs131
+  372  git push -u origin main
+  373  git remove remote origin
+  374  git remote remove origin
+  375  git remote add origin https://github.com/HKcode22/cs131
+  376  git push -u origin main
+  377  git pull origin main
+  378  git push origin main
+  379  git pull origin main --allow-unrelated-histories
+  380  [hamzaf23@sjsu Worksheet1]$ git pull origin main --allow-unrelated-histories
+  381  From https://github.com/HKcode22/cs131
+  382   * branch            main       -> FETCH_HEAD
+  383  hint: Pulling without specifying how to reconcile divergent branches is
+  384  hint: discouraged. You can squelch this message by running one of the following
+  385  hint: commands sometime before your next pull:
+  386  hint: 
+  387  hint:   git config pull.rebase false  # merge (the default strategy)
+  388  hint:   git config pull.rebase true   # rebase
+  389  hint:   git config pull.ff only       # fast-forward only
+  390  hint: 
+  391  hint: You can replace "git config" with "git config --global" to set a default
+  392  hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+  393  hint: or --ff-only on the command line to override the configured default per
+  394  hint: invocation.
+  395  CONFLICT (add/add): Merge conflict in cmds.log
+  396  Auto-merging cmds.log
+  397  Automatic merge failed; fix conflicts and then commit the result.git add cmds.log
+  398  git add cmds.log
+  399  mkdir "Worksheet1"
+  400  ls -ltr
+  401  cd Worksheet1
+  402  touch Worksheet1
+  403  git init
+  404  git add .
+  405  git status
+  406  git config --global HKcode22.Hk84164@gmail.com "Hk84164@gmail.com"
+  407  git config --global HKcode22.Hk84164@gmail.com HKcode22
+  408   cd ~/.ssh && ssh-keygen
+  409  cat id_rsa.pub
+  410  mkdir
+  411  mkdir Worksheet1
+  412  ls -ltr
+  413  cd Worksheet1
+  414  touch Worksheet1
+  415  git init
+  416  git add .
+  417  git commit -m "Add Worksheet1 directory and files"
+  418  git status
+  419  git remote add https://github.com/HKcode22/cs131
+  420  git config --global HKcode22.Hk84164@gmail.com "Hk84164@gmail.com"
+  421  git config --global HKcode22.Hk84164@gmail.com HKcode22
+  422  cd ~/.ssh && ssh-keygen
+  423  cat id_rsa.pub
+  424  git remote add origin git@github.com:HKcode22/Worksheet1.git
+  425  git remote add origin git@github.com:HKcode22/cs131.git
+  426  git remote add origin https://github.com/HKcode22/cs131:HKcode22/cs131.git
+  427  git remote add origin https://github.com/HKcode22/cs131:HKcode22/Worksheet1.git
+  428  git remote add origin hk84164@gmail.com:HKcode22/Worksheet1.git
+  429  git remote add origin n
+  430  cd Workheet1
+  431  cd Worksheet1
+  432  git commit -m "Add Worksheet1 directory and files"
+  433  clear
+  434  cd ..
+  435  cd Worksheet1
+  436  mkdir sampleProject
+  437  mkdir Worksheet1
+  438  cd ..
+  439  wget www.github.com
+  440  rm -i filename
+  441  rm -i cs131
+  442  cd Desktop
+  443  rm -i cs131
+  444  mv cs131 /tmp/
+  445  cd 131
+  446  cd Worksheet1
+  447  cd ..
+  448  cd Worksheet1
+  449  cd ..
+  450  mv Worksheet1 /tmp/
+  451  cd Desktop
+  452  cd cs131
+  453  cd Worksheet1
+  454  cd ..
+  455  mv cs131 /tmp/
+  456  cd ..
+  457  mv cs131 /tmp/
+  458  cd cs131
+  459  ls
+  460  git status
+  461  mkdir sampleProject
+  462  ls -ltr
+  463  cd sampleProject/
+  464  touch sampleFile.txt
+  465  git init
+  466  git add .
+  467  git status
+  468  git config --global user.email "you@example.com"
+  469  git remote add origin git@github.com:HKcode22/cs131.git
+  470  git config --global user.name "Hamza Khan
+  471  git config --global user.name "Hamza Khan"
+  472   cd ~/.ssh && ssh-keygen
+  473  cat id_rsa.pub
+  474  ssh -T git@github.com
+  475  cd cs131
+  476  cd ..
+  477  cd 131
+  478  cd Desktop
+  479  cd cs131
+  480  cd Worksheet1
+  481  cd cs131
+  482  cd ..
+  483  git add cmds.log Worksheet1
+  484  cd Worksheet1
+  485  git add cmds.log
+  486  history > cmds.log
+  487  git add cmds.log
+  488  wget www.github.com
+  489  history
+  490  cmds.log
+  491  touch worksheet1.txt
+  492  ls
+  493  git status
+  494  touch worksheet1.txt
+  495  git add
+  496  git add .
+  497  git status
+  498  touch sampleProject
+  499  git add .
+  500  git status
+  501  git add sampleProject
+  502  git add.
+  503  git add .
+  504  git status
+  505  cd ..
+  506  git add sampleProject
+  507  git add .
+  508  got status
+  509  git status
+  510  git add sampleProject
+  511  got commit -m "Hi!"
+  512  git commit -m "Hi!"
+  513  git add .
+  514  cd sampleProject
+  515  git commit -m "Hi!"
+  516  git add .
+  517  git add
+  518  git status
+  519  cd >>
+  520  cd ..
+  521  git stauts
+  522  git status
+  523  git add sampleProject
+  524  cd Worksheet1
+  525  git status
+  526  ls
+  527  cd ..
+  528  ls
+  529  mkdir sampleProject
+  530  ls -ltr
+  531  cd sampleProject/
+  532  touch sampleFile.txt
+  533  git init
+  534  git add .
+  535  git status
+  536  git config --global user.email "hk84164@gmail.com"
+  537  git config --global user.name "HKcode22"
+  538  git remote add origin git@github.com:HKcode22/cs131.git
+  539  git commit -m "Message"
+  540  git push --set-upstream origin master
+  541  cd /path/to/cs131/sampleProject  # Navigate to the nested repository
+  542  rm -rf .git                       # Delete the nested repository
+  543  cd /path/to/cs131/sampleProject
+  544  rm -rf .git
+  545  cd /path/to/cs131
+  546  git add .
+  547  git commit -m "Remove nested repository"
+  548  git push origin master
+  549  [hamzaf23@sjsu sampleProject]$ rm -rf .git
+  550  [hamzaf23@sjsu sampleProject]$ cd /path/to/cs131
+  551  -bash: cd: /path/to/cs131: No such file or directory
+  552  [hamzaf23@sjsu sampleProject]$ git add .
+  553  fatal: in unpopulated submodule 'sampleProject'
+  554  [hamzaf23@sjsu sampleProject]$ git commit -m "Remove nested repository"
+  555  [master 75a9d63] Remove nested repository
+  556   1 file changed, 1 insertion(+)
+  557   create mode 160000 sampleProject
+  558  [hamzaf23@sjsu sampleProject]$ git push origin master
+  559  fatal: 'origin' does not appear to be a git repository
+  560  fatal: Could not read from remote repository.
+  561  Please make sure you have the correct access rights
+  562  and the repository exists.
+  563  [hamzaf23@sjsu sampleProject]$ 
+  564  cd ~/cs131
+  565  git rm --cached sampleProject
+  566  git add .
+  567  git commit -m "Remove nested repository"
+  568  rm -rf sampleProject
+  569  git add .
+  570  git commit -m "Remove nested repository (sampleProject)"
+  571  rm -rf sampleProject
+  572  git config -f .gitmodules --remove-section submodule.sampleProject
+  573  git commit -m "mm"
+  574  git remote -v
+  575  git remote add origin git@github.com:HKcode22/cs131.git
+  576  git commit -m "m"
+  577  git push --set-upstream origin master
+  578  rm -rf cs131
+  579  cd ..
+  580  rm -rf cs131
+  581  cd cs131
+  582  cd Desktop
+  583  cd cs131
+  584  rm -rf cs131
+  585  cd ..
+  586  rm -rf cs131
+  587  cd cs131
+  588  mkdir cs131
+  589  cd cs131
+  590  ls
+  591  mkdir sampleProject
+  592  ls -ltr
+  593  cd sampleProject/
+  594  touch sampleFile.txt
+  595  git init
+  596  git add .
+  597  git status
+  598  git config --global user.email "hk84164@gmail.com"
+  599  git config --global user.name "HKcode22"
+  600  cd ~/.ssh && ssh-keygen
+  601  cat id_rsa.pub
+  602  git -T git@github.com
+  603  ssh -T git@github.com
+  604  git remote add origin git@github.com:HKcode22/cs131.git
+  605  cd ..
+  606  cd cs131
+  607  cd Desktop
+  608  git commit -m "Message"
+  609  cd cs131
+  610  git commit -m "Message"
+  611  .bash_history
+  612  git add ../../.bash_history
+  613  git add ../../.gitconfig
+  614  git add sampleProject/../../.ssh/
+  615  ../../.ssh/
+  616  git add sampleProject/../../.ssh/
+  617  git add ../../.ssh/
+  618  git add ../../SampleRepoForCS131/
+  619  git status
+  620  git commit -m "Message"
+  621  git ../../.wget-hsts
+  622  git add ../../.wget-hsts
+  623  git add ../../Worksheet1/
+  624  git add ../../a.txt
+  625  git add ../../hamzaf23
+  626  git add ../../index.html
+  627  git add ../../index.html.2
+  628  git add ../../index.html.3
+  629  git add ../../index.html.4
+  630  git add ../../index.html.5
+  631  git add ../../index.html.6
+  632  git add ../../index.html.8
+  633  ../../index.html.8
+  634  git add ../../index.html.8
+  635  git add ../../index.html.9
+  636  git commit -m "Message"
+  637  git push --set-upstream origin master
+  638  git remote show origin
+  639  git push --set-upstream origin main
+  640  git pull origin main
+  641  git fetch origin main
+  642  git merge origin/main
+  643  ls
+  644  mkdir Worksheet1
+  645  git commit -m "Message"
+  646  mkdir sampleProject
+  647  ls -ltr
+  648  cd sampleProject/
+  649  touch sampleFile.txt
+  650  git init
+  651  git add .
+  652  git status
+  653  git remote add origin git@github.com:khanchandaniashish/DemoRepoForCS131.git
+  654  git remote add origin git@github.com:HKcode22/cs131.git
+  655  git commit -m "Message"
+  656  git push --set-upstream origin master
+  657  git push --set-upstream origin main
+  658  git push --set-upstream origin master
+  659  git remote add origin git@github.com:HKcode22/cs131.git
+  660  git remote set-url origin git@github.com:HKcode22/cs131.git
+  661  git push --set-upstream origin master
+  662  git push --set-upstream origin main
+  663  cd ..
+  664  git remote set-url origin git@github.com:HKcode22/cs131.git
+  665  git push --set-upstream origin master
+  666  git push --set-upstream origin main
+  667  git pull origin main
+  668  hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+  669  [hamzaf23@sjsu cs131]$ git pull origin main
+  670  error: Pulling is not possible because you have unmerged files.
+  671  hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+  672  hint: as appropriate to mark resolution and make a commit.
+  673  git status
+  674  git add ../../Worksheet1
+  675  git status
+  676  git add ../../Worksheet1
+  677  git add ../../.ssh/known_hosts
+  678  git add .
+  679  git add ../../.ssh/known_hosts
+  680  git status
+  681  git add ../../Worksheet1
+  682  git restore ../../Worksheet1
+  683  git add ../project2/
+  684  git add ../../index.html.1
+  685  git add ../../index.html.7
+  686  git status
+  687  git add ../../Worksheet1
+  688  git add .
+  689  git status
+  690  git add ../../Worksheet1
+  691  git restore ../../Worksheet1
+  692  git status
+  693  git restore ../../Worksheet1
+  694  git add .
+  695  git status
+  696  git add .
+  697  git reset ../../Worksheet1
+  698  git commit -m "Resolve merge conflicts (excluding Worksheet1)"
+  699  git status
+  700  git push origin main
+  701  git commit -m "Messege"
+  702  git push origin main
+  703  git add .
+  704  git reset ../../Worksheet1
+  705  git commit -m "Messege"
+  706  git rm -r Worksheet1
+  707  no changes added to commit (use "git add" and/or "git commit -a")
+  708  [hamzaf23@sjsu cs131]$ git rm -r Worksheet1
+  709  fatal: pathspec 'Worksheet1' did not match any files
+  710  git branch
+  711  ls
+  712  git rm -r Worksheet1
+  713  git commit -m "Remove Worksheet1 directory"
+  714  git rm -r ../../Worksheet1
+  715  cd /path/to/parent/directory
+  716  git rm -r Worksheet1
+  717  rm -rf Worksheet1
+  718  git rm -r Worksheet1
+  719  rm -rf Worksheet1
+  720  git status
+  721  git submodule deinit -f -- <path/to/submodule>
+  722  rm -rf <path/to/submodule>
+  723  git submodule
+  724  git submodule deinit -f -- Worksheet1
+  725  rm -rf Worksheet1
+  726  git config -f .gitmodules --remove-section submodule.Worksheet1
+  727  git config -f .git/config --remove-section submodule.Worksheet1
+  728  git commit -m "Remove Worksheet1 submodule"
+  729  git submodule
+  730  rm -rf ../../Worksheet1
+  731  git commit -m "Remove Worksheet1 submodule"
+  732  git rm --cached ../../Worksheet1
+  733  git commit -m "Remove Worksheet1 submodule reference"
+  734  rm -rf ../../Worksheet1
+  735  git commit -m "Remove Worksheet1 submodule files"
+  736  git push origin main
+  737  rm -rf ../../Worksheet1
+  738  git push origin main
+  739  mkdir sampleProject
+  740  ls -ltr
+  741  cd sampleProject/
+  742  touch sampleFile.txt
+  743  git init
+  744  git add .
+  745  git status
+  746  git config --global user.email "hk84164@gmail.com"
+  747  git config --global user.name "HKcode22"
+  748  git remote add origin git@github.com:HKcode22/cs131.git
+  749  git commit -m "Message"
+  750  git push --set-upstream origin master
+  751  git push --set-upstream origin main
+  752  ls
+  753  git status
+  754  cd ..
+  755  cd Worksheet1
+  756  mkdir Worksheet1
+  757  ls -ltr
+  758  cd sampleProject/
+  759  cd Worksheet1
+  760  cd ..
+  761  cd Worksheet1
+  762  touch sampleFile.txt
+  763  git init
+  764  git add .
+  765  git status
+  766  git config --global user.email "hk84164@gmail.com"
+  767  git config --global user.name "HKcode22"
+  768  git remote add origin git@github.com:HKcode22/cs131.git
+  769  git commit -m "Message"
+  770  git push --set-upstream origin maste
+  771  git push --set-upstream origin master
+  772  git push --set-upstream origin main
+  773  git branch -m master main
+  774  git push --set-upstream origin main
+  775  git checkout main
+  776  git pull origin main
+  777  git push origin main
+  778  git checkout main
+  779  git push -f origin main
+  780  git pull origin main
+  781  git push --set-upstream origin master
+  782  error: failed to push some refs to 'github.com:HKcode22/cs131.git'
+  783  [hamzaf23@sjsu Worksheet1]$ git push --set-upstream origin master
+  784  error: src refspec master does not match any
+  785  error: failed to push some refs to 'github.com:HKcode22/cs131.git'
+  786  [hamzaf23@sjsu Worksheet1]$ git push --set-upstream origin master
+  787  error: src refspec master does not match any
+  788  error: failed to push some refs to 'github.com:HKcode22/cs131.git'
+  789  [hamzaf23@sjsu Worksheet1]$ git push --set-upstream origin master
+  790  error: src refspec master does not match any
+  791  error: failed to push some refs to 'github.com:HKcode22/cs131.git'
+  792  [hamzaf23@sjsu Worksheet1]$ git push --set-upstream origin master
+  793  error: src refspec master does not match any
+  794  error: failed to push some refs to 'github.com:HKcode22/cs131.git'
+  795  [hamzaf23@sjsu Worksheet1]$ git push --set-upstream origin master
+  796  error: src refspec master does not match any
+  797  error: failed to push some refs to 'github.com:HKcode22/cs131.git'
+  798  [hamzaf23@sjsu Worksheet1]$ git push --set-upstream origin master
+  799  error: src refspec master does not match any
+  800  error: failed to push some refs to 'github.com:HKcode22/cs131.git'
+  801  [hamzaf23@sjsu Worksheet1]$ error: failed to push some refs to 'github.com:HKcode22/cs131.git'
+  802  [hamzaf23@sjsu Worksheet1]$ git push --set-upstream origin master
+  803  error: src refspec master does not match any
+  804  error: failed to push some refs to 'github.com:HKcode22/cs131.git'
+  805  [hamzaf23@sjsu Worksheet1]$ git push --set-upstream origin master
+  806  error: src refspec master does not match any
+  807  error: failed to push some refs to 'github.com:HKcode22/cs131.git'
+  808  [hamzaf23@sjsu Worksheet1]$ git push --set-upstream origin master
+  809  error: src refspec master does not match any
+  810  error: failed to push some refs to 'github.com:HKcode22/cs131.git'
+  811  [hamzaf23@sjsu Worksheet1]$ git push --set-upstream origin master
+  812  error: src refspec master does not match any
+  813  error: failed to push some refs to 'github.com:HKcode22/cs131.git'
+  814  [hamzaf23@sjsu Worksheet1]$ git push --set-upstream origin master
+  815  error: src refspec master does not match any
+  816  error: failed to push some refs to 'github.com:HKcode22/cs131.git'
+  817  [hamzaf23@sjsu Worksheet1]$ git push --set-upstream origin master
+  818  error: src refspec master does not match any
+  819  error: failed to push some refs to 'github.com:HKcode22/cs131.git'
+  820  [hamzaf23@sjsu Worksheet1]$ git push --set-upstream origin main
+  821  git push --set-upstream origin main
+  822  git push --set-upstream origin master
+  823  history > cmds.log
+  824  git push cmds.log 
+  825  cd ..
+  826  git push cmds.log
+  827  git push origin main
+  828  git push origin master
+  829  git push --set-upstream origin master
+  830  git push --set-upstream origin main
+  831  mkdir sampleProject
+  832  ls -ltr
+  833  cd sampleProject/
+  834  touch sampleFile.txt
+  835  git init
+  836  git add .
+  837  git status
+  838  git config --global user.name "HKcode22"
+  839  git config --global user.email "hk84164@gmail.com"
+  840  cd Worksheet1
+  841  cd ..
+  842  cd Worksheet1
+  843  history > cmds.log
