@@ -841,3 +841,21 @@
   841  cd ..
   842  cd Worksheet1
   843  history > cmds.log
+  844  git add cmds.log
+  845  git push <remote> <branch>
+  846  git push origin main
+  847  git remote add origin git@github.com:HKcode22/cs131.git
+  848  git commit -m "Message"
+  849  git push --set-upstream origin master
+  850  git push --set-upstream origin main
+  851  git remote add origin cd /path/to/your/repository
+  852  cd Worksheet1
+  853  git add cmds.log
+  854  git commit -m "Add cmds.log file"
+  855  git push origin main
+  856  cd /path/to/your/repository
+  857  cd ..
+  858  git add cmds.log
+  859  git add history > cmds.lg
+  860  git add history > cmds.log
+  861  history > cmds.log
